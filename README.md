@@ -1,7 +1,5 @@
 # AnKo-免费AI创作平台
 
-# AnKo-AI-Artificial-Intelligence-software
-
 **AI新质生产力·助力效率翻x倍**
 
 基于Anko网站的AI多模型架构及多模态能力，高效处理文本、图片、音频、视频、PDF等工作内容，极大提升各种办公场景的工作效率。
